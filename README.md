@@ -20,3 +20,5 @@ This data consists of these columns:
 - Verified_Account: A Boolean value whether the user's account has been verified
 - Followers: The number of followers as of the time the tweet was scraped
 - Following: The number of following as of the time the tweet was scraped
+
+Link to the dashboard is [here](https://datastudio.google.com/reporting/59b6395a-47be-45f8-937e-93c99d67041c).
