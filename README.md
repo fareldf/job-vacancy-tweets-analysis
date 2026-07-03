@@ -3,8 +3,9 @@
 Twitter has become a popular platform for companies to share job vacancies and reach potential candidates. Analyzing companies, job positions, engagement, and posting patterns helps uncover hiring trends in the digital labor market.
 
 ## Objectives
-- Analyzed user activity, job posting behavior, and job demand trends to identify engagement patterns and key insights using Python.
-- Built interactive dashboard using Google Data Studio.
+- Analyzed job vacancy tweet data using Python to identify engagement trends, posting patterns, and hiring demand.
+- Built an interactive dashboard in Google Data Studio and created a presentation deck in Canva to communicate insights.
+
 
 ## Dataset
 The data is downloaded from [Kaggle](https://www.kaggle.com/datasets/prasad22/job-vacancy-tweets). This dataset were collected between 1 January 2019 and 10 April 2023, with the help of snscrape library of Python and are provided in a CSV format by the author, Prasad Pratil.
